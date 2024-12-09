@@ -1,0 +1,25 @@
+{
+    "studentA1": {
+      "studentId": "6755a69305010fe14283bfb4",
+      "username": "student_a1@example.com",
+      "password": "234787636",
+      "role": "student",
+      "email":"ramesh@university.edu"
+
+    },
+    "studentA2": {
+        "studentId": "675702ee8436ca81606e6033",
+        "username": "student_a2@example.com",
+        "password": "34526766",
+        "role": "student",
+        "email":"kunal@university.edu"
+    },
+    "professorP1": {
+      "email" : "emily.rodriguez@university.edu",
+      "professor_id": "662d3a1f9b1e8c001f3e4567",
+      "username": "professor_p1@example.com",
+      "password": "ProfessorPass2024!",
+      "role": "professor"
+    }
+  }
+

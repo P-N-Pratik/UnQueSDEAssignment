@@ -1,0 +1,14 @@
+{
+    "timeSlotT1": {
+      "date": "2024-02-15",
+      "startTime": "10:00",
+      "endTime": "10:30",
+      "professorId": "professor_p1_uuid"
+    },
+    "timeSlotT2": {
+      "date": "2024-02-15", 
+      "startTime": "11:00",
+      "endTime": "11:30",
+      "professorId": "professor_p1_uuid"
+    }
+  }
